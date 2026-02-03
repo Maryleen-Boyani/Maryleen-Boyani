@@ -2,7 +2,7 @@
 
 ***
 ![Art Scrambling GIF](https://media2.giphy.com/media/v1.Y2lkPTBhNTU2YjhmbGQzeXFvNXR1MTJ2NjN0anVydHBxemx4ZWFmbGwxejJscDFkcHp5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif)
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTBhNTU2YjhmbGQzeXFvNXR1MTJ2NjN0anVydHBxemx4ZWFmbGwxejJscDFkcHp5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif" height="300" />
 # Hi 👋, I am Maryleen Boyani.
 ### Learning all the way!
 
