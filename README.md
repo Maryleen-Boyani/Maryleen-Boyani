@@ -1,5 +1,7 @@
 ## Hi there👋, I am Boyani
 
+I am a Computer Scientist specializing in web and mobile application development. My work focuses on building scalable digital solutions, creating impactful user interfaces, and translating complex designs into functional components.
+
 - 🔭 I’m currently working on: Building professional software solutions.
 - 🌱 I’m currently learning: Advanced technical expertise in Flutter, React, and AI-driven platforms
 - 👯 Open to collaborate on various projects
