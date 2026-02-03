@@ -1,20 +1,47 @@
-## Hi there👋, I am Boyani
-
-I am a Computer Scientist specializing in web and mobile application development. My work focuses on building scalable digital solutions, creating impactful user interfaces, and translating complex designs into functional components.
-
-- 🔭 I’m currently working on: Building professional software solutions.
-- 🌱 I’m currently learning: Advanced technical expertise in Flutter, React, and AI-driven platforms
-- 👯 Open to collaborate on various projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: UI/UX Design, Responsive Web Design, and Mobile App Development.
-- 📫 How to reach me: menechamaryleen@gmail.com
-- ⚡ Fun fact: I do sound mixing!
-<!--
-**Maryleen-Boyani/Maryleen-Boyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a Computer Scientist specializing in web and mobile application development. My work focuses on building scalable digital solutions, creating impactful user interfaces, and translating complex designs into functional components.
-Here are some ideas to get you started:
 
 
-- 😄 Pronouns: ...
+***
+![Art Scrambling GIF](https://media2.giphy.com/media/v1.Y2lkPTBhNTU2YjhmbGQzeXFvNXR1MTJ2NjN0anVydHBxemx4ZWFmbGwxejJscDFkcHp5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif)
 
--->
+# Hi 👋, I am Maryleen Boyani.
+### Learning all the way!
+
+A Computer Scientist specializing in web, mobile application development and AI integration in systems.
+<!-- <p>
+  <img src="https://img.shields.io/github/followers/Maryleen-Boyani?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Maryleen-Boyani?label=Total%20Stars&style=social" />
+</p> -->
+
+### 🔭 I’m currently...
+- 🔭 Working on **building professional software solutions.**
+- 🌱 Learning **advanced technical expertise in Flutter, React, and AI-driven platforms**
+- 💬 Ask me about **UI/UX Design, Responsive Web Design, and Mobile App Development.**
+
+
+
+<p>
+  <a href="https://linkedin.com/https://www.linkedin.com/in/maryleen-boyani-a53975242/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/maryleen--boyani--a53975242/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+</p>
+
+
+<p>
+</p>
+
