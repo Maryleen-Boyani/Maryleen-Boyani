@@ -21,6 +21,7 @@ A Computer Scientist specializing in web, mobile application development and AI 
 <p>
   <a href="https://www.linkedin.com/in/maryleen-boyani-a53975242" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    Maryleen-Boyani
   </a>
 </p>
 
