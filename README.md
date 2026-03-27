@@ -19,7 +19,7 @@ A Computer Scientist specializing in web, mobile application development and AI 
 
 
 <p>
-  <a href="https://linkedin.com/https://www.linkedin.com/in/maryleen-boyani-a53975242/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/maryleen--boyani--a53975242/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/maryleen-boyani-a53975242" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-https://www.linkedin.com/in/maryleen--boyani--a53975242/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ### 🛠️ Languages and Tools
